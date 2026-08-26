@@ -1,11 +1,11 @@
 {
-    "version":  "2.4.5",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.5/Quan-Ly-Tu-Xa-Setup-2.4.5.exe",
-    "sha256":  "92b10f5edd4446c442ffa2ceb2c39c47aefc2013c2dac92386d36d05a8515dbd",
-    "notes":  "Windows-power-fix",
+    "version":  "2.4.6",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.6/Quan-Ly-Tu-Xa-Setup-2.4.6.exe",
+    "sha256":  "4a229398f9bbf2c0ac9a26f4eeff0ee9d3eaa6512d311006202041d397a906c6",
+    "notes":  "Windows-env-power-fix",
     "rollback":  {
-                     "version":  "2.4.4",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.4/Quan-Ly-Tu-Xa-Setup-2.4.4.exe",
-                     "sha256":  "5df81217a2a7a3735f5c59ffa97e17195297662b82af916a59dd8241cde2c686"
+                     "version":  "2.4.5",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.5/Quan-Ly-Tu-Xa-Setup-2.4.5.exe",
+                     "sha256":  "92b10f5edd4446c442ffa2ceb2c39c47aefc2013c2dac92386d36d05a8515dbd"
                  }
 }
