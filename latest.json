@@ -1,11 +1,11 @@
 {
-    "version":  "2.5.0",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.5.0/Quan-Ly-Tu-Xa-Setup-2.5.0.exe",
-    "sha256":  "18fac9d3473f08b88eeacd9e532bb985b6b13441c77faf26b0ffb8c9bf4efb68",
-    "notes":  "PC-to-PC two-way file transfer; machine picker; SMB advanced.",
+    "version":  "2.5.1",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.5.1/Quan-Ly-Tu-Xa-Setup-2.5.1.exe",
+    "sha256":  "737109a072ff6a63ed3a93867f2def77ecf24594384004325210c75060cdbbd0",
+    "notes":  "Fix-duplicate-schedules-and-pending-shutdown-conflicts",
     "rollback":  {
-                     "version":  "2.4.9",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.9/Quan-Ly-Tu-Xa-Setup-2.4.9.exe",
-                     "sha256":  "457012569c33163cd884896acf2c6866f2a08d9b28d437b410ae13f1c7a4a653"
+                     "version":  "2.5.0",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.5.0/Quan-Ly-Tu-Xa-Setup-2.5.0.exe",
+                     "sha256":  "18fac9d3473f08b88eeacd9e532bb985b6b13441c77faf26b0ffb8c9bf4efb68"
                  }
 }
