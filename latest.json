@@ -1,11 +1,11 @@
 {
-    "version":  "2.5.1",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.5.1/Quan-Ly-Tu-Xa-Setup-2.5.1.exe",
-    "sha256":  "737109a072ff6a63ed3a93867f2def77ecf24594384004325210c75060cdbbd0",
-    "notes":  "Fix-duplicate-schedules-and-pending-shutdown-conflicts",
+    "version":  "2.6.0",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.0/Quan-Ly-Tu-Xa-Setup-2.6.0.exe",
+    "sha256":  "34f6a4f78e77a1618d22ce4ee09f18c3201ac0e68e85013afedcb69a6eb4aa98",
+    "notes":  "Toi-uu-may-va-cap-nhat-tu-dong-mot-cham",
     "rollback":  {
-                     "version":  "2.5.0",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.5.0/Quan-Ly-Tu-Xa-Setup-2.5.0.exe",
-                     "sha256":  "18fac9d3473f08b88eeacd9e532bb985b6b13441c77faf26b0ffb8c9bf4efb68"
+                     "version":  "2.5.1",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.5.1/Quan-Ly-Tu-Xa-Setup-2.5.1.exe",
+                     "sha256":  "737109a072ff6a63ed3a93867f2def77ecf24594384004325210c75060cdbbd0"
                  }
 }
