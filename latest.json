@@ -1,11 +1,11 @@
 {
-    "version":  "2.4.7",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.7/Quan-Ly-Tu-Xa-Setup-2.4.7.exe",
-    "sha256":  "6bce049bdc8bf426441f0adcaccff962d75654a057a4401cffa2449e4ba2f81f",
-    "notes":  "auto-pair-fix",
+    "version":  "2.4.8",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.8/Quan-Ly-Tu-Xa-Setup-2.4.8.exe",
+    "sha256":  "47dd2be172cb870aecf4bd2e08739afa0ceb1c16936d4dde773c7387c12c9ce6",
+    "notes":  "Fix-auto-pair-controller-ui-and-Tailscale-label",
     "rollback":  {
-                     "version":  "2.4.6",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.6/Quan-Ly-Tu-Xa-Setup-2.4.6.exe",
-                     "sha256":  "4a229398f9bbf2c0ac9a26f4eeff0ee9d3eaa6512d311006202041d397a906c6"
+                     "version":  "2.4.7",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.4.7/Quan-Ly-Tu-Xa-Setup-2.4.7.exe",
+                     "sha256":  "6bce049bdc8bf426441f0adcaccff962d75654a057a4401cffa2449e4ba2f81f"
                  }
 }
