@@ -1,11 +1,11 @@
 {
-    "version":  "2.6.5",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.5/Quan-Ly-Tu-Xa-Setup-2.6.5.exe",
-    "sha256":  "e438e2ef8d09e61e27c469be8bb53a957511a9b37fccf49f17cfc240a7d85218",
-    "notes":  "Tự động đồng bộ phiên bản giữa các máy: tự kiểm tra production, tải và xác minh SHA-256, cài silent và mở lại; Agent báo phiên bản về controller; giữ các sửa Remote Console, self-device và Wake-on-LAN của 2.6.4.",
+    "version":  "2.6.9",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.9/Quan-Ly-Tu-Xa-Setup-2.6.9.exe",
+    "sha256":  "420ca5cdf6fe997ee04a62fc2a2f57329e1f22a74fd4cbdf8a6c117cc91701c8",
+    "notes":  "Hoàn thiện tự động đồng bộ phiên bản giữa các máy. Ứng dụng tự kiểm tra production, tải và xác minh SHA-256, dùng Update Helper native để chờ app cũ thoát, cài NSIS silent và tự mở lại. Giữ các sửa Remote Console, self-device, trạng thái Online và Wake-on-LAN.",
     "rollback":  {
-                     "version":  "2.6.4",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.4/Quan-Ly-Tu-Xa-Setup-2.6.4.exe",
-                     "sha256":  "3b6f72ae667220635d4488a3b3c8c4195f1998541de9f680d14bde0e16029c46"
+                     "version":  "2.6.5",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.5/Quan-Ly-Tu-Xa-Setup-2.6.5.exe",
+                     "sha256":  "e438e2ef8d09e61e27c469be8bb53a957511a9b37fccf49f17cfc240a7d85218"
                  }
 }
