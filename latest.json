@@ -1,11 +1,11 @@
 {
-    "version":  "2.6.3",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.3/Quan-Ly-Tu-Xa-Setup-2.6.3.exe",
-    "sha256":  "8ce8b71525a14b12a33600ba199ebc371714f3fffc20fe0c0348e43881ee54d9",
-    "notes":  "Thêm Màn hình \u0026 điều khiển trực tiếp cho Windows qua Agent/Tailscale; helper native chụp màn hình; chuột/bàn phím; tối ưu xác thực DPAPI; chuẩn bị màn hình ảo cho máy headless; giữ cập nhật một chạm và rollback.",
+    "version":  "2.6.4",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.4/Quan-Ly-Tu-Xa-Setup-2.6.4.exe",
+    "sha256":  "3b6f72ae667220635d4488a3b3c8c4195f1998541de9f680d14bde0e16029c46",
+    "notes":  "Sửa nhận diện máy này trên từng PC, tương thích trạng thái Agent cũ, cải thiện Wake-on-LAN theo đúng interface và nhiều MAC, tự đồng bộ pairing định kỳ.",
     "rollback":  {
-                     "version":  "2.6.1",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.1/Quan-Ly-Tu-Xa-Setup-2.6.1.exe",
-                     "sha256":  "e3b3e5d99e8827a6779c7650e5286134a16b3ef5413baad6ef10a977887233c3"
+                     "version":  "2.6.3",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.3/Quan-Ly-Tu-Xa-Setup-2.6.3.exe",
+                     "sha256":  "8ce8b71525a14b12a33600ba199ebc371714f3fffc20fe0c0348e43881ee54d9"
                  }
 }
