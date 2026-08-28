@@ -1,11 +1,11 @@
 {
-    "version":  "2.6.1",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.1/Quan-Ly-Tu-Xa-Setup-2.6.1.exe",
-    "sha256":  "e3b3e5d99e8827a6779c7650e5286134a16b3ef5413baad6ef10a977887233c3",
-    "notes":  "Sửa hiển thị tiếng Việt, ẩn cửa sổ Wrangler và ổn định regression trên cổng test riêng.",
+    "version":  "2.6.3",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.3/Quan-Ly-Tu-Xa-Setup-2.6.3.exe",
+    "sha256":  "8ce8b71525a14b12a33600ba199ebc371714f3fffc20fe0c0348e43881ee54d9",
+    "notes":  "Thêm Màn hình \u0026 điều khiển trực tiếp cho Windows qua Agent/Tailscale; helper native chụp màn hình; chuột/bàn phím; tối ưu xác thực DPAPI; chuẩn bị màn hình ảo cho máy headless; giữ cập nhật một chạm và rollback.",
     "rollback":  {
-                     "version":  "2.6.0",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.0/Quan-Ly-Tu-Xa-Setup-2.6.0.exe",
-                     "sha256":  "34f6a4f78e77a1618d22ce4ee09f18c3201ac0e68e85013afedcb69a6eb4aa98"
+                     "version":  "2.6.1",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.1/Quan-Ly-Tu-Xa-Setup-2.6.1.exe",
+                     "sha256":  "e3b3e5d99e8827a6779c7650e5286134a16b3ef5413baad6ef10a977887233c3"
                  }
 }
