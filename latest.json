@@ -2,7 +2,7 @@
     "version":  "2.7.0",
     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.0/Quan-Ly-Tu-Xa-Setup-2.7.0.exe",
     "sha256":  "509aa81c5f4c6c41886a7571331f3f968451bdc2e6d19bfb7917a7d75be1c53e",
-    "notes":  "Bổ sung giải phóng ổ C và chuyển dữ liệu an toàn sang ổ khác; cải thiện kiểm tra và tự cập nhật giữa các máy; giữ nguyên rollback và xác minh SHA-256.",
+    "notes":  "Fix version display to use runtime version, refresh UI assets without stale service-worker cache, add safe C-drive relocation, and clean release artifacts.",
     "rollback":  {
                      "version":  "2.6.9",
                      "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.9/Quan-Ly-Tu-Xa-Setup-2.6.9.exe",
