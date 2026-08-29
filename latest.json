@@ -1,8 +1,8 @@
 {
     "version":  "2.7.0",
     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.0/Quan-Ly-Tu-Xa-Setup-2.7.0.exe",
-    "sha256":  "509aa81c5f4c6c41886a7571331f3f968451bdc2e6d19bfb7917a7d75be1c53e",
-    "notes":  "Fix version display to use runtime version, refresh UI assets without stale service-worker cache, add safe C-drive relocation, and clean release artifacts.",
+    "sha256":  "e7731077df44ea6c3e751207b89ed50b5b56c991b7c039ed7ec01eda5a803fa8",
+    "notes":  "Fix runtime version display, remove stale UI cache behavior, add safe C-drive relocation, and simplify release artifact management.",
     "rollback":  {
                      "version":  "2.6.9",
                      "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.9/Quan-Ly-Tu-Xa-Setup-2.6.9.exe",
