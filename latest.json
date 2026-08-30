@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.2",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.2/Quan-Ly-Tu-Xa-Setup-2.7.2.exe",
-    "sha256":  "45805baabec32b9b03cb319975ea923086aa45ae0860485ea86d0bb1775ec3b7",
-    "notes":  "Fix 2.7.1 Tailscale status parser regression; move Wake-on-LAN configuration into the correct auto-setup path; keep manual WOL action for existing agents.",
+    "version":  "2.7.3",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.3/Quan-Ly-Tu-Xa-Setup-2.7.3.exe",
+    "sha256":  "e079a0862c6f99503918c4bd2bd866ed3c9c56f7d0069bea477ac4a6a6c06eb7",
+    "notes":  "Route elevated Windows setup through the Electron desktop session so Wake-on-LAN and future admin setup can request UAC correctly from background agents.",
     "rollback":  {
-                     "version":  "2.7.1",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.1/Quan-Ly-Tu-Xa-Setup-2.7.1.exe",
-                     "sha256":  "0587121fc588a5c672ba95115cc3df183bcd120ca73b43dc49490307400ce6a0"
+                     "version":  "2.7.2",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.2/Quan-Ly-Tu-Xa-Setup-2.7.2.exe",
+                     "sha256":  "45805baabec32b9b03cb319975ea923086aa45ae0860485ea86d0bb1775ec3b7"
                  }
 }
