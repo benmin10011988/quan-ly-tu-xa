@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.0",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.0/Quan-Ly-Tu-Xa-Setup-2.7.0.exe",
-    "sha256":  "e7731077df44ea6c3e751207b89ed50b5b56c991b7c039ed7ec01eda5a803fa8",
-    "notes":  "Fix runtime version display, remove stale UI cache behavior, add safe C-drive relocation, and simplify release artifact management.",
+    "version":  "2.7.1",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.1/Quan-Ly-Tu-Xa-Setup-2.7.1.exe",
+    "sha256":  "0587121fc588a5c672ba95115cc3df183bcd120ca73b43dc49490307400ce6a0",
+    "notes":  "Fix device-list blocking on slow hosts and add Wake-on-LAN Windows auto-configuration for new agents.",
     "rollback":  {
-                     "version":  "2.6.9",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.6.9/Quan-Ly-Tu-Xa-Setup-2.6.9.exe",
-                     "sha256":  "420ca5cdf6fe997ee04a62fc2a2f57329e1f22a74fd4cbdf8a6c117cc91701c8"
+                     "version":  "2.7.0",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.0/Quan-Ly-Tu-Xa-Setup-2.7.0.exe",
+                     "sha256":  "e7731077df44ea6c3e751207b89ed50b5b56c991b7c039ed7ec01eda5a803fa8"
                  }
 }
