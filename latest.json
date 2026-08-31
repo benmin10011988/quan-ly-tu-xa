@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.4",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.4/Quan-Ly-Tu-Xa-Setup-2.7.4.exe",
-    "sha256":  "637d791fc7f774b887e36eaa48ef4cbcb2e636fa3fd68c3310df9bd2a6e31d12",
-    "notes":  "Fix fresh-install setup: desktop heartbeat elevation bridge, automatic Windows setup retry after UAC failure, physical-PC dedupe by MAC after reinstall, and remote setup-state diagnostics.",
+    "version":  "2.7.5",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.5/Quan-Ly-Tu-Xa-Setup-2.7.5.exe",
+    "sha256":  "ad11ccdaad6f05ed97db986e2467352f2aee11360ed61ebcb70797e679e97c6c",
+    "notes":  "Use a shared LOCALAPPDATA elevation bridge, expose bridge diagnostics in agent status, keep paired agents syncing during incomplete setup, and preserve MAC-based deduplication.",
     "rollback":  {
-                     "version":  "2.7.3",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.3/Quan-Ly-Tu-Xa-Setup-2.7.3.exe",
-                     "sha256":  "e079a0862c6f99503918c4bd2bd866ed3c9c56f7d0069bea477ac4a6a6c06eb7"
+                     "version":  "2.7.4",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.4/Quan-Ly-Tu-Xa-Setup-2.7.4.exe",
+                     "sha256":  "637d791fc7f774b887e36eaa48ef4cbcb2e636fa3fd68c3310df9bd2a6e31d12"
                  }
 }
