@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.6",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.6/Quan-Ly-Tu-Xa-Setup-2.7.6.exe",
-    "sha256":  "6d5c122350b4db2507c972396fb479472dbe06a78184295cf3c0236df7544a59",
-    "notes":  "Fix reinstall pairing credentials and Windows status resilience; add direct Electron-backend named-pipe elevation bridge for reliable UAC setup and Wake-on-LAN configuration.",
+    "version":  "2.7.7",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.7/Quan-Ly-Tu-Xa-Setup-2.7.7.exe",
+    "sha256":  "531929c22bab9ea6769154b72d20f0f85981993e2d80961fee54a1d27c3cbf2a",
+    "notes":  "Use electron-builder native elevate.exe for Administrator prompts over the desktop elevation bridge; keep named-pipe/file fallbacks; retain credential cache refresh and resilient agent status.",
     "rollback":  {
-                     "version":  "2.7.5",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.5/Quan-Ly-Tu-Xa-Setup-2.7.5.exe",
-                     "sha256":  "ad11ccdaad6f05ed97db986e2467352f2aee11360ed61ebcb70797e679e97c6c"
+                     "version":  "2.7.6",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.6/Quan-Ly-Tu-Xa-Setup-2.7.6.exe",
+                     "sha256":  "6d5c122350b4db2507c972396fb479472dbe06a78184295cf3c0236df7544a59"
                  }
 }
