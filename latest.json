@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.5",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.5/Quan-Ly-Tu-Xa-Setup-2.7.5.exe",
-    "sha256":  "ad11ccdaad6f05ed97db986e2467352f2aee11360ed61ebcb70797e679e97c6c",
-    "notes":  "Use a shared LOCALAPPDATA elevation bridge, expose bridge diagnostics in agent status, keep paired agents syncing during incomplete setup, and preserve MAC-based deduplication.",
+    "version":  "2.7.6",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.6/Quan-Ly-Tu-Xa-Setup-2.7.6.exe",
+    "sha256":  "6d5c122350b4db2507c972396fb479472dbe06a78184295cf3c0236df7544a59",
+    "notes":  "Fix reinstall pairing credentials and Windows status resilience; add direct Electron-backend named-pipe elevation bridge for reliable UAC setup and Wake-on-LAN configuration.",
     "rollback":  {
-                     "version":  "2.7.4",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.4/Quan-Ly-Tu-Xa-Setup-2.7.4.exe",
-                     "sha256":  "637d791fc7f774b887e36eaa48ef4cbcb2e636fa3fd68c3310df9bd2a6e31d12"
+                     "version":  "2.7.5",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.5/Quan-Ly-Tu-Xa-Setup-2.7.5.exe",
+                     "sha256":  "ad11ccdaad6f05ed97db986e2467352f2aee11360ed61ebcb70797e679e97c6c"
                  }
 }
