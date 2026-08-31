@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.7",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.7/Quan-Ly-Tu-Xa-Setup-2.7.7.exe",
-    "sha256":  "531929c22bab9ea6769154b72d20f0f85981993e2d80961fee54a1d27c3cbf2a",
-    "notes":  "Use electron-builder native elevate.exe for Administrator prompts over the desktop elevation bridge; keep named-pipe/file fallbacks; retain credential cache refresh and resilient agent status.",
+    "version":  "2.7.8",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.8/Quan-Ly-Tu-Xa-Setup-2.7.8.exe",
+    "sha256":  "2f469e198dc0a3969a5372a0872cefcc2d02ac791d72565f7627ee70143081f3",
+    "notes":  "Use native elevate.exe for both named-pipe and file elevation bridges; remove packaged desktop fallback to PowerShell RunAs; expose pipe/helper diagnostics in agent status.",
     "rollback":  {
-                     "version":  "2.7.6",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.6/Quan-Ly-Tu-Xa-Setup-2.7.6.exe",
-                     "sha256":  "6d5c122350b4db2507c972396fb479472dbe06a78184295cf3c0236df7544a59"
+                     "version":  "2.7.7",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.7/Quan-Ly-Tu-Xa-Setup-2.7.7.exe",
+                     "sha256":  "531929c22bab9ea6769154b72d20f0f85981993e2d80961fee54a1d27c3cbf2a"
                  }
 }
