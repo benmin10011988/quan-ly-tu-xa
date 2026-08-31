@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.3",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.3/Quan-Ly-Tu-Xa-Setup-2.7.3.exe",
-    "sha256":  "e079a0862c6f99503918c4bd2bd866ed3c9c56f7d0069bea477ac4a6a6c06eb7",
-    "notes":  "Route elevated Windows setup through the Electron desktop session so Wake-on-LAN and future admin setup can request UAC correctly from background agents.",
+    "version":  "2.7.4",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.4/Quan-Ly-Tu-Xa-Setup-2.7.4.exe",
+    "sha256":  "637d791fc7f774b887e36eaa48ef4cbcb2e636fa3fd68c3310df9bd2a6e31d12",
+    "notes":  "Fix fresh-install setup: desktop heartbeat elevation bridge, automatic Windows setup retry after UAC failure, physical-PC dedupe by MAC after reinstall, and remote setup-state diagnostics.",
     "rollback":  {
-                     "version":  "2.7.2",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.2/Quan-Ly-Tu-Xa-Setup-2.7.2.exe",
-                     "sha256":  "45805baabec32b9b03cb319975ea923086aa45ae0860485ea86d0bb1775ec3b7"
+                     "version":  "2.7.3",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.3/Quan-Ly-Tu-Xa-Setup-2.7.3.exe",
+                     "sha256":  "e079a0862c6f99503918c4bd2bd866ed3c9c56f7d0069bea477ac4a6a6c06eb7"
                  }
 }
