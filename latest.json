@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.11",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.11/Quan-Ly-Tu-Xa-Setup-2.7.11.exe",
-    "sha256":  "fa4a7a3457d9d074d20ac5e53b16ce9635376864d2f62054ea63e9a60e34ca89",
-    "notes":  "Fix device status refresh with background cache so slow Windows/Tailscale checks no longer stay at checking; improve installable webapp/PWA mobile navigation and device status UX.",
+    "version":  "2.7.12",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.12/Quan-Ly-Tu-Xa-Setup-2.7.12.exe",
+    "sha256":  "e607941d10a49003992517514f55b35f6f9fc687468f09c2e00329b10097b3f9",
+    "notes":  "Fix Tailscale Serve webapp detection and repair stale proxy routes; show the usable direct link instead of an endless loading state; keep background device-status cache and webapp mobile UX improvements.",
     "rollback":  {
-                     "version":  "2.7.10",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.10/Quan-Ly-Tu-Xa-Setup-2.7.10.exe",
-                     "sha256":  "9d0b652d1b944851d7ef8d4b61dd2f3ac78bb62dba8739fddce249225a453e29"
+                     "version":  "2.7.11",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.11/Quan-Ly-Tu-Xa-Setup-2.7.11.exe",
+                     "sha256":  "fa4a7a3457d9d074d20ac5e53b16ce9635376864d2f62054ea63e9a60e34ca89"
                  }
 }
