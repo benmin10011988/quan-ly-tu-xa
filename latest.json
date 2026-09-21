@@ -2,7 +2,7 @@
     "version":  "2.7.12",
     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.12/Quan-Ly-Tu-Xa-Setup-2.7.12.exe",
     "sha256":  "e607941d10a49003992517514f55b35f6f9fc687468f09c2e00329b10097b3f9",
-    "notes":  "Fix Tailscale Serve webapp detection and repair stale proxy routes; show the usable direct link instead of an endless loading state; keep background device-status cache and webapp mobile UX improvements.",
+    "notes":  "Fix device status refresh so the dashboard keeps last-known state while refreshing; repair Tailscale Serve detection so stale proxy targets are not reported as healthy; point the private HTTPS webapp link to production port 8787; bump PWA service-worker cache so installed webapps refresh assets.",
     "rollback":  {
                      "version":  "2.7.11",
                      "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.11/Quan-Ly-Tu-Xa-Setup-2.7.11.exe",
