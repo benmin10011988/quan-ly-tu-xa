@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.13",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.13/Quan-Ly-Tu-Xa-Setup-2.7.13.exe",
-    "sha256":  "0fcbf83d0c1e7aa0b099ba9b43b4f531e24880b1ac1322ae964a7cc78c2da324",
-    "notes":  "Replace fragile local Windows WMI/PowerShell metrics polling with native Node OS metrics sampling. This removes intermittent status timeouts and CPU/RAM parse failures while keeping the asynchronous device-status cache and repaired Tailscale webapp link.",
+    "version":  "2.7.14",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.14/Quan-Ly-Tu-Xa-Setup-2.7.14.exe",
+    "sha256":  "0ad5cf8226ac1bdf5e9213bb702807c1019bf94f415ca1aa2e3557bf3d2f06b8",
+    "notes":  "Improve startup and webapp responsiveness: serve device snapshots immediately, stagger background refreshes so slow Proxmox checks cannot block the dashboard, hydrate the local Windows PC first, lazy-load connection diagnostics only when the Connection view is opened, and expose setup-complete state from health so local setup checks are skipped when already configured. Keeps native Node OS metrics and the repaired private Tailscale HTTPS link.",
     "rollback":  {
-                     "version":  "2.7.12",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.12/Quan-Ly-Tu-Xa-Setup-2.7.12.exe",
-                     "sha256":  "e607941d10a49003992517514f55b35f6f9fc687468f09c2e00329b10097b3f9"
+                     "version":  "2.7.13",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.13/Quan-Ly-Tu-Xa-Setup-2.7.13.exe",
+                     "sha256":  "0fcbf83d0c1e7aa0b099ba9b43b4f531e24880b1ac1322ae964a7cc78c2da324"
                  }
 }
