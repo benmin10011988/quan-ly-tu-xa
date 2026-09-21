@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.12",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.12/Quan-Ly-Tu-Xa-Setup-2.7.12.exe",
-    "sha256":  "e607941d10a49003992517514f55b35f6f9fc687468f09c2e00329b10097b3f9",
-    "notes":  "Fix device status refresh so the dashboard keeps last-known state while refreshing; repair Tailscale Serve detection so stale proxy targets are not reported as healthy; point the private HTTPS webapp link to production port 8787; bump PWA service-worker cache so installed webapps refresh assets.",
+    "version":  "2.7.13",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.13/Quan-Ly-Tu-Xa-Setup-2.7.13.exe",
+    "sha256":  "0fcbf83d0c1e7aa0b099ba9b43b4f531e24880b1ac1322ae964a7cc78c2da324",
+    "notes":  "Replace fragile local Windows WMI/PowerShell metrics polling with native Node OS metrics sampling. This removes intermittent status timeouts and CPU/RAM parse failures while keeping the asynchronous device-status cache and repaired Tailscale webapp link.",
     "rollback":  {
-                     "version":  "2.7.11",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.11/Quan-Ly-Tu-Xa-Setup-2.7.11.exe",
-                     "sha256":  "fa4a7a3457d9d074d20ac5e53b16ce9635376864d2f62054ea63e9a60e34ca89"
+                     "version":  "2.7.12",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.12/Quan-Ly-Tu-Xa-Setup-2.7.12.exe",
+                     "sha256":  "e607941d10a49003992517514f55b35f6f9fc687468f09c2e00329b10097b3f9"
                  }
 }
