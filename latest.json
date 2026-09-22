@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.16",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.16/Quan-Ly-Tu-Xa-Setup-2.7.16.exe",
-    "sha256":  "5cfe2b8971811599d0b5fe1ad88659e0044701545631429b071689427d39315f",
-    "notes":  "Improve Remote Console reconnection after transient agent restarts/timeouts; clear stale control-channel errors after recovery; reduce remote input timeout for faster recovery.",
+    "version":  "2.7.17",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.17/Quan-Ly-Tu-Xa-Setup-2.7.17.exe",
+    "sha256":  "8ca1ded7e41f7a45b39e3aeb4f4662605c2257907fc5ee39ea5a61b27cdb2c81",
+    "notes":  "Reduce Remote Console CPU/network load with adaptive capture interval, lower default frame size/quality, and retain automatic reconnection after transient agent timeouts.",
     "rollback":  {
-                     "version":  "2.7.15",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.15/Quan-Ly-Tu-Xa-Setup-2.7.15.exe",
-                     "sha256":  "a31adf07baadccdb295b7cad38f30ae5f91b1304262f8a8e1d9f66ab59bd4e08"
+                     "version":  "2.7.16",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.16/Quan-Ly-Tu-Xa-Setup-2.7.16.exe",
+                     "sha256":  "5cfe2b8971811599d0b5fe1ad88659e0044701545631429b071689427d39315f"
                  }
 }
