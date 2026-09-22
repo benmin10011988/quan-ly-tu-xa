@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.18",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.18/Quan-Ly-Tu-Xa-Setup-2.7.18.exe",
-    "sha256":  "4fd9036e5418e754f21ff913dded5beb1cbd9478b91867c481aa55b1d3924455",
-    "notes":  "Giảm tải CPU của màn hình điều khiển từ xa, bổ sung chẩn đoán tiến trình CPU/RAM và hỗ trợ tên hiển thị riêng để phân biệt các máy.",
+    "version":  "2.7.19",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.19/Quan-Ly-Tu-Xa-Setup-2.7.19.exe",
+    "sha256":  "6c87dd75e9f90a98a88d54b9fefe4d6b358d45e5f00aea45275529d47378ef29",
+    "notes":  "Sửa triệt để CPU cao trên máy Agent: bỏ PowerShell khỏi hot-path kiểm tra Tailscale, dùng adapter/cache/sc.exe nhẹ hơn; giữ tên hiển thị riêng và chẩn đoán tiến trình.",
     "rollback":  {
-                     "version":  "2.7.17",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.17/Quan-Ly-Tu-Xa-Setup-2.7.17.exe",
-                     "sha256":  "8ca1ded7e41f7a45b39e3aeb4f4662605c2257907fc5ee39ea5a61b27cdb2c81"
+                     "version":  "2.7.18",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.18/Quan-Ly-Tu-Xa-Setup-2.7.18.exe",
+                     "sha256":  "4fd9036e5418e754f21ff913dded5beb1cbd9478b91867c481aa55b1d3924455"
                  }
 }
