@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.20",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.20/Quan-Ly-Tu-Xa-Setup-2.7.20.exe",
-    "sha256":  "bced0b0ebcc592646e335220fe19982d87e6c08711bb92ccf64e134f817990c6",
-    "notes":  "Cho phép điều khiển trực tiếp PC điều khiển ngay trong webapp trên iPhone/iPad; RDP chỉ còn là phương án dự phòng cần Windows App. Giữ remote-console cho máy Agent và cache PWA mới.",
+    "version":  "2.7.21",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.21/Quan-Ly-Tu-Xa-Setup-2.7.21.exe",
+    "sha256":  "646de58b014b0848c9a47d1bc81c071eeb43713f40463103922f7750af7a30dc",
+    "notes":  "Cải thiện điều khiển từ xa trên iPhone/iPad: thêm bàn phím nhập văn bản tiếng Việt trong Remote Console, giảm tải luồng màn hình, giữ kết nối ổn định hơn và sửa kiểm tra trạng thái Tailscale. Bản này cũng duy trì Wake-on-LAN, điều khiển bật/tắt và cơ chế rollback sang 2.7.20.",
     "rollback":  {
-                     "version":  "2.7.19",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.19/Quan-Ly-Tu-Xa-Setup-2.7.19.exe",
-                     "sha256":  "6c87dd75e9f90a98a88d54b9fefe4d6b358d45e5f00aea45275529d47378ef29"
+                     "version":  "2.7.20",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.20/Quan-Ly-Tu-Xa-Setup-2.7.20.exe",
+                     "sha256":  "bced0b0ebcc592646e335220fe19982d87e6c08711bb92ccf64e134f817990c6"
                  }
 }
