@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.17",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.17/Quan-Ly-Tu-Xa-Setup-2.7.17.exe",
-    "sha256":  "8ca1ded7e41f7a45b39e3aeb4f4662605c2257907fc5ee39ea5a61b27cdb2c81",
-    "notes":  "Reduce Remote Console CPU/network load with adaptive capture interval, lower default frame size/quality, and retain automatic reconnection after transient agent timeouts.",
+    "version":  "2.7.18",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.18/Quan-Ly-Tu-Xa-Setup-2.7.18.exe",
+    "sha256":  "4fd9036e5418e754f21ff913dded5beb1cbd9478b91867c481aa55b1d3924455",
+    "notes":  "Giảm tải CPU của màn hình điều khiển từ xa, bổ sung chẩn đoán tiến trình CPU/RAM và hỗ trợ tên hiển thị riêng để phân biệt các máy.",
     "rollback":  {
-                     "version":  "2.7.16",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.16/Quan-Ly-Tu-Xa-Setup-2.7.16.exe",
-                     "sha256":  "5cfe2b8971811599d0b5fe1ad88659e0044701545631429b071689427d39315f"
+                     "version":  "2.7.17",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.17/Quan-Ly-Tu-Xa-Setup-2.7.17.exe",
+                     "sha256":  "8ca1ded7e41f7a45b39e3aeb4f4662605c2257907fc5ee39ea5a61b27cdb2c81"
                  }
 }
