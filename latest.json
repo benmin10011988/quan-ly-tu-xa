@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.19",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.19/Quan-Ly-Tu-Xa-Setup-2.7.19.exe",
-    "sha256":  "6c87dd75e9f90a98a88d54b9fefe4d6b358d45e5f00aea45275529d47378ef29",
-    "notes":  "Sửa triệt để CPU cao trên máy Agent: bỏ PowerShell khỏi hot-path kiểm tra Tailscale, dùng adapter/cache/sc.exe nhẹ hơn; giữ tên hiển thị riêng và chẩn đoán tiến trình.",
+    "version":  "2.7.20",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.20/Quan-Ly-Tu-Xa-Setup-2.7.20.exe",
+    "sha256":  "bced0b0ebcc592646e335220fe19982d87e6c08711bb92ccf64e134f817990c6",
+    "notes":  "Cho phép điều khiển trực tiếp PC điều khiển ngay trong webapp trên iPhone/iPad; RDP chỉ còn là phương án dự phòng cần Windows App. Giữ remote-console cho máy Agent và cache PWA mới.",
     "rollback":  {
-                     "version":  "2.7.18",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.18/Quan-Ly-Tu-Xa-Setup-2.7.18.exe",
-                     "sha256":  "4fd9036e5418e754f21ff913dded5beb1cbd9478b91867c481aa55b1d3924455"
+                     "version":  "2.7.19",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.19/Quan-Ly-Tu-Xa-Setup-2.7.19.exe",
+                     "sha256":  "6c87dd75e9f90a98a88d54b9fefe4d6b358d45e5f00aea45275529d47378ef29"
                  }
 }
