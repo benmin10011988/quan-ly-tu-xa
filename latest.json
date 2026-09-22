@@ -1,11 +1,11 @@
 {
-    "version":  "2.7.21",
-    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.21/Quan-Ly-Tu-Xa-Setup-2.7.21.exe",
-    "sha256":  "646de58b014b0848c9a47d1bc81c071eeb43713f40463103922f7750af7a30dc",
-    "notes":  "Cải thiện điều khiển từ xa trên iPhone/iPad: thêm bàn phím nhập văn bản tiếng Việt trong Remote Console, giảm tải luồng màn hình, giữ kết nối ổn định hơn và sửa kiểm tra trạng thái Tailscale. Bản này cũng duy trì Wake-on-LAN, điều khiển bật/tắt và cơ chế rollback sang 2.7.20.",
+    "version":  "2.7.22",
+    "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.22/Quan-Ly-Tu-Xa-Setup-2.7.22.exe",
+    "sha256":  "03b82ef500a4f1720b49dcc057a87cbe7bffb30d9498f9505af598190cd62bef",
+    "notes":  "Sửa cache PWA theo phiên bản để iPhone luôn nhận đúng webapp mới; hoàn thiện bàn phím iPhone/Unicode cho Remote Console; bổ sung release-version contract để build chặn cache/version lệch; giữ luồng điều khiển Bật/Tắt qua webapp.",
     "rollback":  {
-                     "version":  "2.7.20",
-                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.20/Quan-Ly-Tu-Xa-Setup-2.7.20.exe",
-                     "sha256":  "bced0b0ebcc592646e335220fe19982d87e6c08711bb92ccf64e134f817990c6"
+                     "version":  "2.7.21",
+                     "url":  "https://github.com/benmin10011988/quan-ly-tu-xa/releases/download/v2.7.21/Quan-Ly-Tu-Xa-Setup-2.7.21.exe",
+                     "sha256":  "646de58b014b0848c9a47d1bc81c071eeb43713f40463103922f7750af7a30dc"
                  }
 }
